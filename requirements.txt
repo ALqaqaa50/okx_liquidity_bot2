@@ -1,0 +1,8 @@
+requests
+python-dotenv
+prometheus-client
+pytest
+pandas
+openpyxl
+openpyxl
+pandas

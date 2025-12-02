@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Local environment variables
+.env
+
+# Logs
+*.log
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Env files
+.env
+.env.*
+
+# Byte-compiled / distribution
+build/
+dist/
+eggs/
+*.egg-info/
+
+# VS Code
+.vscode/
