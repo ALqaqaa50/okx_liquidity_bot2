@@ -4,5 +4,7 @@ prometheus-client
 pytest
 pandas
 openpyxl
+gspread
+google-auth
 openpyxl
 pandas
